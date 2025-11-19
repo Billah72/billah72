@@ -1,4 +1,4 @@
-<img src="image/Black and White Modern Programmer LinkedIn Banner (1).png" alt="">
+<img src="https://i.ibb.co.com/RprCWP5L/image.png" alt="">
 
 
 ### Hi there 👋, Mottasim Billah
