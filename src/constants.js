@@ -35,7 +35,7 @@ export const personalInfo = {
   title: "Frontend & MERN Stack Developer",
   tagline: "Building scalable, high-performance & visually stunning web applications with modern technologies.",
   bio: "Passionate and detail-oriented Frontend & MERN Stack Developer with hands-on experience in engineering responsive, user-friendly, and accessible web experiences. Specializing in modern JavaScript, React.js, Next.js, Node.js, Express, MongoDB, and Tailwind CSS. Dedicated to writing clean, maintainable code and bringing innovative ideas to life.",
-  resumeUrl: "https://drive.google.com/file/d/1Q84kIQgrVS8ZyBBvkcJHjnpFSB9Jn1SD/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1RwqOCrnv8lWldqm6zQQ6nBD9RKiBL2W-/view?usp=sharing",
   email: "muttasimbillah21@gmail.com",
   phone: "+880 1700-000000",
   location: "Dhaka, Bangladesh",
